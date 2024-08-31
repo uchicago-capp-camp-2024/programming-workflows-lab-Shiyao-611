@@ -23,6 +23,7 @@ def main():
     guesses = 6
     # letters that have been revealed (all empty at first)
     revealed = ["_", "_", "_"]
+    
     # keep track of letters already guessed
     guessed = set()
 
